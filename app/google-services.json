@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "949936748654",
+    "firebase_url": "https://projekakhir-pemmob-default-rtdb.firebaseio.com",
+    "project_id": "projekakhir-pemmob",
+    "storage_bucket": "projekakhir-pemmob.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:949936748654:android:5e6a924cc0e7eadd93ce7f",
+        "android_client_info": {
+          "package_name": "com.example.project_akhir_redon_daffa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "949936748654-5e2fiv8bea6bma5nvsak8pjfqs7ico48.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmgot96A3yc4vtWy_3QG5px7A0c5-CHf8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "949936748654-5e2fiv8bea6bma5nvsak8pjfqs7ico48.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
